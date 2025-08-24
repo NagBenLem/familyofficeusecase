@@ -1,0 +1,31 @@
+client_id,preferred_sectors,regions,risk_score,shariah_compliant
+109,"Financials,Consumer",EU,1,1
+142,Energy,"EU,MENA",5,0
+133,"Energy,Consumer",Asia,3,0
+192,"Financials,Healthcare","MENA,US",1,1
+104,"Financials,Infra",EU,3,0
+110,"Energy,Infra",US,4,0
+155,Energy,US,2,1
+114,"Consumer,Energy",Asia,4,1
+197,Tech,"Asia,MENA",4,0
+165,"Infra,Financials","US,MENA",5,1
+162,Real Estate,Asia,2,0
+138,"Energy,Financials",EU,4,0
+176,Tech,"EU,Asia",4,0
+161,Real Estate,Asia,2,1
+169,Consumer,"MENA,US",2,1
+111,"Consumer,Real Estate",Asia,4,1
+193,Healthcare,Asia,2,1
+115,Consumer,MENA,4,1
+113,Infra,US,4,0
+191,Financials,"EU,Asia",5,0
+100,"Infra,Real Estate",EU,1,0
+119,"Healthcare,Consumer",Asia,4,0
+180,Energy,EU,3,1
+174,"Real Estate,Consumer","Asia,MENA",1,0
+178,Healthcare,"Asia,MENA",1,1
+198,Real Estate,EU,1,0
+135,Financials,"MENA,Asia",5,1
+112,Healthcare,"EU,MENA",4,1
+144,"Real Estate,Financials","Asia,MENA",5,0
+149,"Consumer,Healthcare",Asia,4,0

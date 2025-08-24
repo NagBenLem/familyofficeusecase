@@ -1,0 +1,51 @@
+deal_id,sector,region,gp_name,fund_stage
+2000,Infra,EU,GP A,Venture
+2001,Financials,EU,GP H,Infra
+2002,Real Estate,EU,GP F,Venture
+2003,Consumer,MENA,GP Y,Real Estate
+2004,Real Estate,EU,GP P,Growth
+2005,Healthcare,US,GP U,Seed
+2006,Energy,MENA,GP I,Seed
+2007,Financials,MENA,GP K,Infra
+2008,Real Estate,US,GP H,Infra
+2009,Infra,MENA,GP P,Venture
+2010,Healthcare,MENA,GP J,Seed
+2011,Real Estate,Asia,GP O,Venture
+2012,Energy,Asia,GP R,Real Estate
+2013,Tech,Asia,GP J,Venture
+2014,Consumer,MENA,GP H,Real Estate
+2015,Financials,MENA,GP P,Infra
+2016,Consumer,Asia,GP K,Infra
+2017,Healthcare,US,GP M,Buyout
+2018,Real Estate,US,GP F,Buyout
+2019,Financials,EU,GP R,Seed
+2020,Consumer,US,GP N,Buyout
+2021,Consumer,EU,GP Q,Real Estate
+2022,Financials,Asia,GP V,Venture
+2023,Energy,Asia,GP F,Growth
+2024,Tech,Asia,GP A,Buyout
+2025,Tech,Asia,GP T,Seed
+2026,Tech,Asia,GP R,Venture
+2027,Consumer,MENA,GP U,Buyout
+2028,Tech,EU,GP G,Venture
+2029,Healthcare,US,GP X,Buyout
+2030,Energy,Asia,GP D,Venture
+2031,Healthcare,MENA,GP K,Growth
+2032,Infra,Asia,GP Q,Infra
+2033,Energy,EU,GP C,Growth
+2034,Real Estate,US,GP K,Seed
+2035,Real Estate,Asia,GP S,Infra
+2036,Infra,Asia,GP S,Infra
+2037,Energy,MENA,GP Z,Seed
+2038,Financials,US,GP M,Buyout
+2039,Financials,EU,GP J,Buyout
+2040,Infra,US,GP U,Venture
+2041,Tech,EU,GP M,Seed
+2042,Real Estate,US,GP Q,Real Estate
+2043,Financials,EU,GP M,Seed
+2044,Energy,US,GP C,Infra
+2045,Tech,MENA,GP B,Seed
+2046,Tech,Asia,GP R,Growth
+2047,Consumer,EU,GP N,Seed
+2048,Tech,EU,GP F,Venture
+2049,Infra,EU,GP Y,Venture
